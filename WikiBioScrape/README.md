@@ -7,12 +7,12 @@ ScrapeWikiBio.ipynb
 ScrapeWikiBioByDecade.ipynb
 
     -   scrapes zh.Wikipeda.org for biographical entries of persons born 
-        bewteen 300 and 510 AD (only the *decade* in which the person was born is known)
+        bewteen 300 and 510 AD (only the *decade* in which a person was born is known)
 
 ScrapeWikiBioByCentury.ipynb
 
     -   scrapes zh.Wikipeda.org for biographical entries of persons born 
-        bewteen 300 and 510 AD (only the *century* in which the person was born is known)
+        bewteen 300 and 510 AD (only the *century* in which a person was born is known)
 
 
 
