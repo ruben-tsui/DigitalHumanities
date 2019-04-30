@@ -11,5 +11,7 @@ ScrapeWikiBioByDecade.ipynb
 
 ### bio300to510AD.txt
 ### bio300to510AD_Decade.txt
-### bio300to510AD_Decade_initial_text.txt
+### bio300to510AD_Century.txt
 ### bio300to510AD_initial_text.txt
+### bio300to510AD_Decade_initial_text.txt
+### bio300to510AD_Century_initial_text.txt
